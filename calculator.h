@@ -9,3 +9,6 @@ class Calculator
 };
 
 #endif//CALCULATOR_H
+
+
+// Done by Dmytro Boychenko IV-83
